@@ -1,0 +1,48 @@
+.bg{
+    background-color: black;
+}
+.box{
+    margin-top: 20px;
+}
+
+.clrt{
+    height: 250px;
+} 
+.text{
+    margin-top: 40px;
+}  
+.texts{
+    padding-top: 30px;
+    
+    
+}
+body{
+    margin: 0;
+}
+.btn:hover{
+    enable-background: 50px00;
+
+}
+.footer{
+    
+    background-color: black;
+    
+}
+.ami{
+    border-color: black;
+   
+}
+.left{
+    margin-left: 370px;
+}
+.li.hover{
+    scale: 1.9;
+}
+.n:hover{
+
+    enable-background: 50px00;
+    scale: 1.4;
+    
+}
+
+    
